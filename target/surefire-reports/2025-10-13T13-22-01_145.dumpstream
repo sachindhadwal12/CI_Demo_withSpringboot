@@ -1,0 +1,6 @@
+# Created at 2025-10-13T13:22:01.155
+OpenJDK 64-Bit Server VM warning: Ignoring option --illegal-access=permit; support was removed in 17.0
+
+# Created at 2025-10-13T13:22:14.339
+OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+

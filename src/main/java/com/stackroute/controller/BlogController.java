@@ -25,6 +25,7 @@ public class BlogController {
     return ResponseEntity.status(HttpStatus.CREATED).body(savedBlog);
   }
 
+// CI CD
   @GetMapping("/blogs")
   public ResponseEntity<List<Blog>> getAllBlogs() {
     List<Blog> blogs = this.blogService.getAllBlogs();
